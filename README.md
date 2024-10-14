@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc5b66fa-0a8a-4770-97e3-3d5b4f12f651" alt="GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Stuti Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="center">
