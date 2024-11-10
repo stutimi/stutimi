@@ -1,3 +1,21 @@
+<h3 align="left">My Holopin Badges:</h3>
+<p align="left">
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1w6yref74710cl017s0hmk7" target="_blank">
+    <img src="https://www.holopin.io/userbadge/image/cm1w6yref74710cl017s0hmk7" alt="Holopin Badge 1" width="100" height="100"/>
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2hhc99c135630ck0pizy42h2" target="_blank">
+    <img src="https://www.holopin.io/userbadge/image/cm2hhc99c135630ck0pizy42h2" alt="Holopin Badge 2" width="100" height="100"/>
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2hoe0oj08190cmo4qhhivl6" target="_blank">
+    <img src="https://www.holopin.io/userbadge/image/cm2hoe0oj08190cmo4qhhivl6" alt="Holopin Badge 3" width="100" height="100"/>
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2icmbt9119290cl7ww8f1hi2" target="_blank">
+    <img src="https://www.holopin.io/userbadge/image/cm2icmbt9119290cl7ww8f1hi2" alt="Holopin Badge 4" width="100" height="100"/>
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2ioxtay151190cmhr7rgtcg5" target="_blank">
+    <img src="https://www.holopin.io/userbadge/image/cm2ioxtay151190cmhr7rgtcg5" alt="Holopin Badge 5" width="100" height="100"/>
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Stuti Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
