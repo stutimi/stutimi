@@ -25,8 +25,6 @@
 
 - 🌱 I’m currently learning **Datastructure and algorithem**
 
-- 👨‍💻 All of my projects are available at [https://github.com/users/stutimi/projects/ https://github.com/stutimi/Sudoku_html_tailwindcss_javascript https://github.com/stutimi/Tic-Tac-Tao1](https://github.com/users/stutimi/projects/ https://github.com/stutimi/Sudoku_html_tailwindcss_javascript https://github.com/stutimi/Tic-Tac-Tao1)
-
 - 📫 How to reach me **stutimishrastutimishra14@gmail.com**
 
 - ⚡ Fun fact **I love MATHS 🧑‍🏫 and enjoy exploring new concepts and tools!**
