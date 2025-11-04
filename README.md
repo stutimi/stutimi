@@ -1,7 +1,5 @@
 <h3> My Holopin Badges:</h3>
-<a href="https://ibb.co/Kx3Kk1FX">
-  <img src="https://i.ibb.co/TMFWSCm/Screenshot-2025-11-04-181111.png" alt="Screenshot-2025-11-04-181111" border="0">
-</a>
+<a href="https://ibb.co/Y6n8Cyr"><img src="https://i.ibb.co/R1rPFB5/Screenshot-2025-11-04-181111.png" alt="Screenshot-2025-11-04-181111" border="0"></a>
 
     
  <h1>GGSOC Badges</h1>
