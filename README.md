@@ -4,6 +4,22 @@
     <a href="https://ibb.co/jRSfbJN">
         <img src="https://i.ibb.co/jRSfbJN/unnamed.png" alt="GGSOC Badge Image" border="0">
     </a>
+<!-- Paste this into your README.md (GitHub allows basic inline HTML) -->
+<div style="display:flex;flex-direction:column;align-items:center;gap:8px;margin:18px 0;">
+  <a href="https://i.ibb.co/TMFWSCm/Screenshot-2025-11-04-181111.png"
+     target="_blank" rel="noopener noreferrer"
+     title="Open full-size image">
+    <img
+      src="https://i.ibb.co/TMFWSCm/Screenshot-2025-11-04-181111.png"
+      alt="Hacktoberfest contributor cards"
+      style="max-width:100%;width:900px;height:auto;border-radius:6px;box-shadow:0 6px 18px rgba(0,0,0,0.45);border:3px solid rgba(0,0,0,0.25);display:block;"
+    />
+  </a>
+
+  <div style="font-size:13px;color:#cfcfcf;background:rgba(0,0,0,0.45);padding:6px 10px;border-radius:6px;">
+    Screenshot — contributor cards. Click image to open full size.
+  </div>
+</div>
 
 
 
