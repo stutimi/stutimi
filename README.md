@@ -1,10 +1,6 @@
 <h3 align="left">My Holopin Badges:</h3>
 <p align="left">
- <a href="https://ibb.co/D5FShgc"><img src="https://holopin.me/stutimi)](https://holopin.io/@stutimi" alt="1-h-b" border="0"></a>   
-  <a href="https://ibb.co/nQB9y6m"><img src="https://i.ibb.co/nQB9y6m/12-h-b.webp" alt="12-h-b" border="0"></a>   
-  <a href="https://ibb.co/6JNS5yM"><img src="https://i.ibb.co/6JNS5yM/13-h-b.webp" alt="13-h-b" border="0"></a>  
-  <a href="https://ibb.co/DpB6CHx"><img src="https://i.ibb.co/DpB6CHx/14-h-b.webp" alt="14-h-b" border="0"></a>
-  <a href="https://ibb.co/w0yhkqX"><img src="https://i.ibb.co/w0yhkqX/15-h-b.webp" 
+ <a href="https://ibb.co/Kx3Kk1FX"><img src="https://i.ibb.co/TMFWSCmk/Screenshot-2025-11-04-181111.png" alt="Screenshot-2025-11-04-181111" border="0"></a>
 </p>
     
  <h1>GGSOC Badges</h1>
