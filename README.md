@@ -1,9 +1,5 @@
 [![An image of @stutimi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stutimi)](https://holopin.io/@stutimi)
 
-    <a href="https://ibb.co/jRSfbJN">
-        <img src="https://i.ibb.co/jRSfbJN/unnamed.png" alt="GGSOC Badge Image" border="0">
-    </a>
-
 <h1 align="center">Hi 👋, I'm Stuti Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
