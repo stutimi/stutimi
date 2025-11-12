@@ -6,6 +6,32 @@
 # 💫 About Me:
 Hi 👋, I'm Stuti Mishra
 A passionate Software Engineer from India</h3>
+# ⚡ **STUTI MISHRA** ⚡  
+### *SDE Aspirant • DSA Explorer • Future Googler*
+
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,25&height=300&section=header&text=STUTI%20MISHRA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Code%20Dream%20%7C%20Learn%20%7C%20Conquer%20✨&descAlignY=65&descSize=18)
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+
+</div>
+
+---
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&height=80&lines=💻+SDE+in+Progress+%7C+DSA+Learner;🚀+Cracking+Google+Dreams+Step+by+Step;☕+Coffee+%2B+Code+%3D+Passion;🎯+Problem+Solver+%7C+CodeChef+%7C+LeetCode+%7C+GFG)
+
+</div>
+
+---
+
+## 🎯 The Developer’s Journey
+
+<table>
+<tr>
+<td width="60%">
+
+### 🔥 **Current Chapter: Learning, Building, Conquering**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stutimishra0850) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cdssm295) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stuti-mishra-a75665366) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stutimishra9451) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@starsm1st) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stutimishrastutimishra14@gmail.com) 
@@ -37,32 +63,6 @@ A passionate Software Engineer from India</h3>
 
 <div align="center">
 
-# ⚡ **STUTI MISHRA** ⚡  
-### *SDE Aspirant • DSA Explorer • Future Googler*
-
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,25&height=300&section=header&text=STUTI%20MISHRA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Code%20Dream%20%7C%20Learn%20%7C%20Conquer%20✨&descAlignY=65&descSize=18)
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
-
-</div>
-
----
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&height=80&lines=💻+SDE+in+Progress+%7C+DSA+Learner;🚀+Cracking+Google+Dreams+Step+by+Step;☕+Coffee+%2B+Code+%3D+Passion;🎯+Problem+Solver+%7C+CodeChef+%7C+LeetCode+%7C+GFG)
-
-</div>
-
----
-
-## 🎯 The Developer’s Journey
-
-<table>
-<tr>
-<td width="60%">
-
-### 🔥 **Current Chapter: Learning, Building, Conquering**
 
 ```javascript
 const stutiMishra = {
