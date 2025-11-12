@@ -91,93 +91,9 @@ const stutiMishra = {
 console.log('Welcome to Stuti’s digital world! 🚀');
 🎭 Beyond the Code
 🎯 Goal-Driven Learner — Solving problems daily
-📚 Active on LeetCode, GFG & CodeChef
+📚 Active on LeetCode, GFG & CodeChef , Codeforces
 🌱 Focused on consistency, logic, and clean code
 💡 Learning by building real-world projects
-
-</td> <td width="40%"> <div align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280">
-⚡ Quick Stats
-yaml
-Copy code
-🎯 DSA Problems Solved: 200+
-🔥 GitHub Streak: Growing
-☕ Coffee Consumed: Infinite
-📚 Learning Hours: 1000+
-💡 Projects Built: 10+
-🌟 Dream: Google 💻
-</div> </td> </tr> </table>
-🛡️ Arsenal of Skills
-<div align="center">
-🎨 Core Tech Stack
-
-
-
-
-🧠 Web & Development
-
-
-
-
-
-⚙️ Developer Toolkit
-
-
-
-
-
-</div>
-⚔️ Coding Battlegrounds
-<div align="center"> <table> <tr> <td align="center" width="25%">
-🧡 LeetCode Arena
-
-
-</td> <td align="center" width="25%">
-💚 GeeksforGeeks
-
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=stutimishrast257p&theme=radical" alt="GFG Stats" />
-
-</td> <td align="center" width="25%">
-💙 CodeChef
-
-<img src="https://cp-logo.vercel.app/codechef/stuti_mishra_g" alt="CodeChef Profile" />
-
-</td> <td align="center" width="25%">
-💜 Codeforces
-
-<img src="https://raw.githubusercontent.com/kenkoooo/AtCoderProblems/master/public/codeforces_logo.png" width="70" />
-
-</td> </tr> </table> </div>
-🎯 Mission Command Center
-<div align="center">
-🚀 Active Missions
-🎭 Mission	⚡ Status	🔥 Priority	📅 Target
-🎯 Crack Google	██████░░░░ 60%	🔴 CRITICAL	2027
-🚀 DSA Mastery	███████░░░ 70%	🟠 HIGH	Continuous
-📚 Development Skills	█████░░░░░ 50%	🟡 MEDIUM	2026
-💡 Open Source	████░░░░░░ 40%	🟢 ACTIVE	Q3 2025
-
-</div>
-💭 Philosophy & Inspiration
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-🌟 Core Beliefs
-"Don’t just dream of success. Prepare for it, work for it, and earn it."
-
-ascii
-Copy code
-   🎯 VISION       💻 EXECUTION      🌟 IMPACT
-        │              │                │
-        └────── SUCCESS FORMULA ───────┘
-Life Motto: "Code consistently. Learn endlessly. Achieve fearlessly."
-
-</div>
-<div align="center">
-🤝 Connect with Me
-
-
-
-
-
-
 ⭐ Thanks for visiting my digital space!
 💬 “Every bug fixed brings you one step closer to your dream.”
 ✨ Let’s connect, collaborate, and grow together! ✨
