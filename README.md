@@ -2,10 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Stuti Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-# 💫 About Me:
-Hi 👋, I'm Stuti Mishra
-A passionate Software Engineer from India</h3>
 # ⚡ **STUTI MISHRA** ⚡  
 ### *SDE Aspirant • DSA Explorer • Future Googler*
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
@@ -27,8 +23,11 @@ A passionate Software Engineer from India</h3>
 <table>
 <tr>
 <td width="60%">
-[![An image of @stutimi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stutimi)](https://holopin.io/@stutimi)
 ### 🔥 **Current Chapter: Learning, Building, Conquering**
+
+
+
+[![An image of @stutimi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stutimi)](https://holopin.io/@stutimi)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stutimishra0850) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cdssm295) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stuti-mishra-a75665366) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stutimishra9451) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@starsm1st) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stutimishrastutimishra14@gmail.com) 
