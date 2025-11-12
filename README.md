@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,25&height=300&section=header&text=STUTI%20MISHRA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Code%20Dream%20%7C%20Learn%20%7C%20Conquer%20✨&descAlignY=65&descSize=18)
+
 [![An image of @stutimi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stutimi)](https://holopin.io/@stutimi)
 
 <h1 align="center">Hi 👋, I'm Stuti Mishra</h1>
@@ -8,9 +10,6 @@ Hi 👋, I'm Stuti Mishra
 A passionate Software Engineer from India</h3>
 # ⚡ **STUTI MISHRA** ⚡  
 ### *SDE Aspirant • DSA Explorer • Future Googler*
-
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,25&height=300&section=header&text=STUTI%20MISHRA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Code%20Dream%20%7C%20Learn%20%7C%20Conquer%20✨&descAlignY=65&descSize=18)
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 
 </div>
