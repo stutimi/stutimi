@@ -33,3 +33,151 @@ A passionate Software Engineer from India</h3>
 [![](https://visitcount.itsvg.in/api?id=stutimi&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<div align="center">
+
+# ⚡ **STUTI MISHRA** ⚡  
+### *SDE Aspirant • DSA Explorer • Future Googler*
+
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,25&height=300&section=header&text=STUTI%20MISHRA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Code%20Dream%20%7C%20Learn%20%7C%20Conquer%20✨&descAlignY=65&descSize=18)
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+
+</div>
+
+---
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&height=80&lines=💻+SDE+in+Progress+%7C+DSA+Learner;🚀+Cracking+Google+Dreams+Step+by+Step;☕+Coffee+%2B+Code+%3D+Passion;🎯+Problem+Solver+%7C+CodeChef+%7C+LeetCode+%7C+GFG)
+
+</div>
+
+---
+
+## 🎯 The Developer’s Journey
+
+<table>
+<tr>
+<td width="60%">
+
+### 🔥 **Current Chapter: Learning, Building, Conquering**
+
+```javascript
+const stutiMishra = {
+    name: "Stuti Mishra",
+    role: "SDE Aspirant",
+    location: "India 🇮🇳",
+    mission: "Crack Google • Master DSA • Build Real Projects",
+    philosophy: "Consistency over intensity 💪",
+
+    currentFocus: [
+        "Data Structures & Algorithms",
+        "Software Development",
+        "Competitive Programming",
+        "System Design (beginner)"
+    ],
+
+    lifeEquation: "☕ + 💻 + 🔁 = Growth",
+
+    futureGoals: {
+        dreamCompany: "Google",
+        techMastery: "Full Stack Development",
+        impact: "Inspire other learners to dream big 💫"
+    }
+};
+
+console.log('Welcome to Stuti’s digital world! 🚀');
+🎭 Beyond the Code
+🎯 Goal-Driven Learner — Solving problems daily
+📚 Active on LeetCode, GFG & CodeChef
+🌱 Focused on consistency, logic, and clean code
+💡 Learning by building real-world projects
+
+</td> <td width="40%"> <div align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280">
+⚡ Quick Stats
+yaml
+Copy code
+🎯 DSA Problems Solved: 200+
+🔥 GitHub Streak: Growing
+☕ Coffee Consumed: Infinite
+📚 Learning Hours: 1000+
+💡 Projects Built: 10+
+🌟 Dream: Google 💻
+</div> </td> </tr> </table>
+🛡️ Arsenal of Skills
+<div align="center">
+🎨 Core Tech Stack
+
+
+
+
+🧠 Web & Development
+
+
+
+
+
+⚙️ Developer Toolkit
+
+
+
+
+
+</div>
+⚔️ Coding Battlegrounds
+<div align="center"> <table> <tr> <td align="center" width="25%">
+🧡 LeetCode Arena
+
+
+</td> <td align="center" width="25%">
+💚 GeeksforGeeks
+
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=stutimishrast257p&theme=radical" alt="GFG Stats" />
+
+</td> <td align="center" width="25%">
+💙 CodeChef
+
+<img src="https://cp-logo.vercel.app/codechef/stuti_mishra_g" alt="CodeChef Profile" />
+
+</td> <td align="center" width="25%">
+💜 Codeforces
+
+<img src="https://raw.githubusercontent.com/kenkoooo/AtCoderProblems/master/public/codeforces_logo.png" width="70" />
+
+</td> </tr> </table> </div>
+🎯 Mission Command Center
+<div align="center">
+🚀 Active Missions
+🎭 Mission	⚡ Status	🔥 Priority	📅 Target
+🎯 Crack Google	██████░░░░ 60%	🔴 CRITICAL	2027
+🚀 DSA Mastery	███████░░░ 70%	🟠 HIGH	Continuous
+📚 Development Skills	█████░░░░░ 50%	🟡 MEDIUM	2026
+💡 Open Source	████░░░░░░ 40%	🟢 ACTIVE	Q3 2025
+
+</div>
+💭 Philosophy & Inspiration
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+🌟 Core Beliefs
+"Don’t just dream of success. Prepare for it, work for it, and earn it."
+
+ascii
+Copy code
+   🎯 VISION       💻 EXECUTION      🌟 IMPACT
+        │              │                │
+        └────── SUCCESS FORMULA ───────┘
+Life Motto: "Code consistently. Learn endlessly. Achieve fearlessly."
+
+</div>
+<div align="center">
+🤝 Connect with Me
+
+
+
+
+
+
+⭐ Thanks for visiting my digital space!
+💬 “Every bug fixed brings you one step closer to your dream.”
+✨ Let’s connect, collaborate, and grow together! ✨
